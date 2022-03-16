@@ -17,6 +17,8 @@ public class GitHub {
 	
 	System.out.println(c);
 	
+	String name=null;
+	System.out.println(name);
 		
 		
 		

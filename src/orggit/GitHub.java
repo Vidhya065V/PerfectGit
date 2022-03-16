@@ -13,9 +13,11 @@ public class GitHub {
 	
 	int a=10;
 	int b=20;
+	int d=10;
 	int c=a+b;
 	
 	System.out.println(c);
+	
 	
 		
 		

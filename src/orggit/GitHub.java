@@ -19,12 +19,12 @@ public class GitHub {
 	System.out.println(c);
 	
 	String name=null;
-	System.out.println("Vidhya");
+	System.out.println("Hello");
 	System.out.println("Deepak");
 	System.out.println("Priya");
 	System.out.println("Dawood");
     System.out.println("Deepack");
-    System.out.println("Sivapriya");
+    System.out.println("Tolerate");
 
 		
 	}

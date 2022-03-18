@@ -19,7 +19,7 @@ public class GitHub {
 	System.out.println(c);
 	
 	String name=null;
-	System.out.println(name);
+	System.out.println("Deepak");
 	System.out.println("Dawood");
     System.out.println("Deepack");
     System.out.println("Sivapriya");
